@@ -1,2 +1,2 @@
 # simple-blog
-Built it with pure HTML5, CSS3, and Javascript
+Built with pure HTML5, CSS3, and Javascript
